@@ -17,5 +17,3 @@ jobs:
           cache: maven
       - name: Build with Maven
         run: mvn --batch-mode --update-snapshots verify
-        env:
-          SPRING_PROFILES_ACTIVE: test

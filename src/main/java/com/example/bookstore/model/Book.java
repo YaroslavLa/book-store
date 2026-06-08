@@ -30,7 +30,7 @@ public class Book {
     private String coverImage;
 
     public Book(final String title, final String author, final String isbn, final BigDecimal price,
-        final String description, final String coverImage) {
+            final String description, final String coverImage) {
         this.title = title;
         this.author = author;
         this.isbn = isbn;
