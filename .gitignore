@@ -36,3 +36,4 @@ build/
 mvnw.cmd
 .mvn
 mvnw
+/src/main/resources/application-local.properties
